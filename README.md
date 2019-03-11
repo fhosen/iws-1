@@ -1,5 +1,5 @@
-# iws-1
+# IWS 1
 Material para rendir el final de ISW1 ("Vieja") de DC FCEyN UBA
 
 Contiene:
-- Las tóricas del cuatrimestre en donde la cursé
+- Las tóricas del segundo cuatrimestre de 2015
